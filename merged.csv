@@ -1,0 +1,6 @@
+customer_id,name,email,signup_date,city_left,order_id,order_total,order_date,city_right,_merge,city
+1001,Ava Stone,ava@example.com,2024-02-01,Richmond,50001.0,59.99,2025-08-30,Richmond,both,Richmond
+1002,Liam Cole,liam@example.com,2024-03-15,Columbus,50002.0,125.0,2025-09-01,Columbus,both,Columbus
+1003,Noah Patel,noah.new@example.com,2024-04-20,Cincinnati,50005.0,12.0,2025-09-03,Cincinnati,both,Cincinnati
+1004,Mia Chen,mia@example.com,2024-05-12,Columbus,,,,,left_only,Columbus
+1005,Olivia Park,olivia@example.com,2024-06-01,,,,,,left_only,

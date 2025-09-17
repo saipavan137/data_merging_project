@@ -1,0 +1,6 @@
+order_id,customer_id,order_total,order_date,city
+50001,1001,59.99,2025-08-30,Richmond
+50002,1002,125.00,2025-09-01,Columbus
+50003,9999,45.50,2025-09-02,Unknown
+50004,1003,88.00,2025-09-03,Cincinnati
+50005,1003,12.00,2025-09-03,Cincinnati

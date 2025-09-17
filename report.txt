@@ -1,0 +1,12 @@
+=== Merge Audit Report ===
+Total rows in merged output: 5
+Matched on both sides      : 3
+Left-only rows             : 2
+Right-only rows            : 0
+
+Examples of LEFT-ONLY rows (showing up to 5):
+ customer_id        name              email signup_date city_left  order_id  order_total order_date city_right    _merge     city
+        1004    Mia Chen    mia@example.com  2024-05-12  Columbus       NaN          NaN        NaN        NaN left_only Columbus
+        1005 Olivia Park olivia@example.com  2024-06-01       NaN       NaN          NaN        NaN        NaN left_only      NaN
+
+Examples of RIGHT-ONLY rows: (none)

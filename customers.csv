@@ -1,0 +1,7 @@
+customer_id,name,email,signup_date,city
+1001,Ava Stone,ava@example.com,2024-02-01,Richmond
+1002,Liam Cole,liam@example.com,2024-03-15,Columbus
+1003,Noah Patel,noah.old@example.com,2024-04-20,Cincinnati
+1003,Noah Patel,noah.new@example.com,2024-04-20,Cincinnati
+1004,Mia Chen,mia@example.com,2024-05-12,Columbus
+1005,Olivia Park,olivia@example.com,2024-06-01,
